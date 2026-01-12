@@ -1,4 +1,7 @@
 ﻿using System; 
+//Luke Marchant
+// A simple console application that allows you to simulate a number of dice rolls and then prints out a histogram
+// As a visual representation of the results
 
 namespace ConsoleApp1  
 {
